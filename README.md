@@ -11,4 +11,7 @@
 
 
 
-Follow Me
+## Follow Me
+[![Flutter](https://img.shields.io/badge/linkedin-3e3e3e?style=for-the-badge&logo=linkedin)](linkedin.com/in/snnkv/)
+[![Flutter](https://img.shields.io/badge/telegram-3e3e3e?style=for-the-badge&logo=telegram)](https://t.me/IamSNNKV)
+
